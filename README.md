@@ -8,9 +8,10 @@ I'm a passionate **Software Developer** and AI enthusiast, currently working as 
 
 - **Profession:** Software Developer Intern, Prompt Engineer, Frontend Developer  
 - **Current Roles:**  
-  - Software Developer Intern @Arcon Techsolutions Pvt Ltd ![image](https://github.com/user-attachments/assets/009b30c3-9574-44f5-8ce5-ea7678fa4054)
-  - Prompt Engineer & Frontend Developer @OutlierAI ~ ScaleAI ![image](https://github.com/user-attachments/assets/8c527aea-a9f5-4f22-a491-f3299403386c)
-  - Ex-Technical Intern @Dataxlr8.ai  
+  - Software Developer Intern @Arcon Techsolutions Pvt Ltd 
+  - Prompt Engineer & Frontend Developer @OutlierAI ~ ScaleAI
+- **Previous Roles:** 
+  -Technical Intern @Dataxlr8.ai  
 - **Expertise:**  
   - Full Stack Web Development  
   - Blockchain Development  
