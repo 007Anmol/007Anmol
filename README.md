@@ -32,8 +32,7 @@ Check out my repositories with **"Localhost"** in their names — these are some
 
 ## 📈 Commit & Contribution History
 
-![Anmol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=007Anmol&show_icons=true&hide_title=true&hide_rank=true&theme=github_dark)
-![Anmol's GitHub Streak](https://streak-stats.demolab.com?user=007Anmol&theme=github-dark&hide_border=true)
+
 ![Anmol's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=007Anmol&theme=github-dark)
 
 ---
@@ -49,21 +48,3 @@ Check out my repositories with **"Localhost"** in their names — these are some
 
 I'm a driven developer with hands-on experience across web, AI, and blockchain domains. My work spans building scalable full-stack solutions, engineering intelligent prompts, and crafting seamless user interfaces. I thrive on learning and pushing boundaries with modern technologies, always striving to deliver impactful, efficient results.
 
-<!--
-**007Anmol/007Anmol** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
-
-<!--
-**007Anmol/007Anmol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
